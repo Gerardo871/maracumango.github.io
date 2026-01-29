@@ -1,5 +1,2 @@
 # JugodeMangoDev
 Lading Page 
-
-
-# test
